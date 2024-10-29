@@ -5,5 +5,4 @@ function fibonacci(n) {
     }
     return fib.slice(0, n);
 }
-
 console.log(fibonacci(10)); 
